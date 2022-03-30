@@ -7,4 +7,4 @@ Challenging Vision & Language Models to Define Words and Objects](https://www.aa
 In the paper we introduce two new tasks to asses vision-and-language models capabilities of capture semantic information
 of both words (given a visual context) and visual objects within an image (as exemplified in the picture above) 
 
-In this repo we release the code to reproduce the experiments (src/) and the two datasets (data/) DEMETER and DIONYSUS.
+In this repo we release the code to reproduce the experiments (src/) and the two datasets (data/) DEMETER (left-side of the image) and DIONYSUS (right side of the image).
